@@ -1,7 +1,7 @@
-Benchmarking Transformer Layers on Different Hardware
+**Benchmarking Transformer Layers on Different Hardware**
 
-Author: 1. Raj Kundur – MS CS Student, CSULB,
-        2. Aaradhya Partap - MS CS Student, CSULB
+**Author: 1. Raj Kundur – MS CS Student, CSULB,
+        2. Aaradhya Partap - MS CS Student, CSULB**
 
 📘 Project Overview
 
