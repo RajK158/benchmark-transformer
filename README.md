@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Project%20Status-Completed-brightgreen)
+
 **Benchmarking Transformer Layers on Different Hardware**
 
 **Author: 1. Raj Kundur – MS CS Student, CSULB,
