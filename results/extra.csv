@@ -1,0 +1,4 @@
+device,batch_size,sequence_length,avg_time_sec
+# example rows (replace with slide numbers if you have them)
+# h100,1,1024,0.02
+# a100,1,1024,0.03
